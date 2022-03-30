@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-![help](./utils/Animation5.gif "hey")
-=======
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # ClassMates
@@ -255,7 +252,7 @@ This page displays the calendar view of courses with appointment blocks. The pag
 ![Deleting Courses](./utils/gifs/Calendar/Animation5.gif "Deleting Courses")
 
 **Editing Courses**
-![Editing Courses](./utils/gifs/Calendar/Editing_Classes.gif "Editing Courses")
+![Editing Courses](./utils/gifs/Calendar/Editing%20Classes.gif "Editing Courses")
 
 </details>
 
@@ -311,4 +308,3 @@ To learn more about Firebase, take a look at the following resources:
 
 - [Firebase Documentation](https://firebase.google.com/docs) - learn about Firebase fundamentals.
 - [Firebase Demo](https://console.firebase.google.com/project/fir-demo-project/overview) - view a Firebase demo.
->>>>>>> 8ae096fb70a6d573be45ad6b9b88a800489ad6f2
