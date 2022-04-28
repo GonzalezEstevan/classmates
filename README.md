@@ -297,14 +297,15 @@ On the current user's profile page, the user can edit profile description. A men
 A mentee can see other mentors' profiles and their recommendation counts but can't see their own recommendation counts.
 
 **My Profile**
+
 ![My Profile](./utils/gifs/Profile/ReadMeProfileView.gif "My Profile")
 
 **Selected Profile**
+
 ![Selected Profle](./utils/gifs/Profile/ReadMeProfileView.gif "Selected Profile")
 
 
 
-<details>
 <summary>
 <h3>Notifications</h3>
 </summary>
