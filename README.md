@@ -66,7 +66,7 @@ Next import your .env information into a SDK setup
 #### API Routes & Endpoints
 All API routes are in `pages/api/`.
 
-<details>
+
 <summary>View Courses Endpoints</summary>
 
 `GET /api/courses` Retrieves list of all courses.
@@ -150,8 +150,7 @@ All API routes are in `pages/api/`.
 | mentee_firstName | string  | Ex: "Jeth"                                              |
 | mentee_lastName  | string  | Ex: "Venturoli"                                         |
 
-</details>
-<details>
+
 <summary>View Users Endpoints</summary>
 
 `GET /api/users/[user_id]` Retrieves info for specific user.
@@ -180,8 +179,7 @@ All API routes are in `pages/api/`.
 | -------------- | ------- | --------------------------------------------------------- |
 | description    | string  | "Javascript Lover"                                        |
 
-</details>
-<details>
+
 <summary>View Endorsements Endpoints</summary>
 
 `GET /api/endorsements` Retrieves top 10 endorsements.
@@ -216,7 +214,7 @@ All API routes are in `pages/api/`.
 | -------------- | ------- | --------------------------------------------------------- |
 | type           | string  | "increase" or "decrease"                                  |
 
-</details>
+
 
 
 ### 5. Deploy on Vercel
@@ -236,7 +234,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### Navigation Bar
 
-<details>
+
 <summary>
 <h3>My Courses</h3>
 </summary>
@@ -271,9 +269,7 @@ Mentees/students are able to view the list of courses they are currently enrolle
 
 **Drop Course** <br/>
 ![Drop Course](./utils/gifs/MyCourses/student_drop_all_courses.gif "Drop Course")
-</details>
 
-<details>
 <summary>
 <h3> Calendar </h3>
 </summary>
@@ -291,11 +287,11 @@ This page displays the calendar view of courses with appointment blocks. The pag
 **Editing Courses**
 ![Editing Courses](./utils/gifs/Calendar/Editing%20Classes.gif "Editing Courses")
 
-</details>
+
 
 ### Leaderboard
 ### Profile Page
-<details>
+
 This page displays the current or selected user's full name, account type, location, and profile description.
 On the current user's profile page, the user can edit profile description. A mentor can see their own recommendation count and can recommend other mentees.
 A mentee can see other mentors' profiles and their recommendation counts but can't see their own recommendation counts.
@@ -306,7 +302,7 @@ A mentee can see other mentors' profiles and their recommendation counts but can
 **Selected Profile**
 ![Selected Profle](./utils/gifs/Profile/ReadMeProfileView.gif "Selected Profile")
 
-</details>
+
 
 <details>
 <summary>
@@ -322,10 +318,7 @@ This page displays notifications for mentors and mentees.  Mentors will receive 
 **Mentee Notifications** <br/>
 ![Mentee Notifications](./utils/gifs/Notifications/student-notifications.gif "Mentee Notifications")
 
-</details>
 
-
-<details>
 <summary>
 <h3>CourseCatalog</h3>
 </summary>
@@ -354,7 +347,7 @@ This page displays all courses currently available on the ClassMates platform.  
 
 **Student Profile and Recommend** <br/>
 ![Student Profile](./utils/gifs/CourseCatalog/CourseCatalogAndStudentProfile.gif "Student Profile")
-</details>
+
 
 ## Code Structure
 Now that you have an overall understanding of the project we can dicusss how the code is structured.
